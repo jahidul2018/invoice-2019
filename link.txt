@@ -1,0 +1,9 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+https://www.google.com/search?ei=urLXXL3_FoTUwQK7p6qADg&q=bootstrap+css+link+cdn&oq=bootstrap+css+link+&gs_l=psy-ab.1.0.0l2j0i20i263j0l5.32114.41149..44896...0.0..0.408.2352.3-5j1......0....1..gws-wiz.......0i71j0i67.U6KJUQDH38w
+https://www.w3schools.com/html/html_links.asp
+https://teamtreehouse.com/community/htmlcss-linking
+https://www.sitepoint.com/create-invoice-twitter-bootstrap-part-1/
+https://www.sitepoint.com/create-invoice-twitter-bootstrap-part-2/?fbclid=IwAR1wptNaEJVueIffFClvQV8CHPxbvzzMmqbtOpebx2RX5yfqjHkbBwz1MVg
+https://www.google.com/search?q=bootstap+admit+card+templet&oq=bootstap+admit+card+templet+&aqs=chrome..69i57.22263j0j7&sourceid=chrome&ie=UTF-8
